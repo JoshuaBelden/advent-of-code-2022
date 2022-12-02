@@ -1,0 +1,9 @@
+A Y win
+B Z win
+C X win
+A X draw
+B Y draw
+C Z draw
+A Z draw
+B X draw
+C Y draw
